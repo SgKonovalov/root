@@ -1,0 +1,9 @@
+http_server_addr = ":8080"
+logger_level = "debug"
+docs_addr = ":8092"
+
+[database]
+username = "postgres"
+password = "1234"
+host = "localhost:5432"
+database_name = "test"
